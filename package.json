@@ -1,0 +1,25 @@
+{
+  "name": "workshopdemo",
+  "version": "1.0.0",
+  "description": "This is MERN stack todo application, made for a workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayedazharsabri/workshopdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayedazharsabri/workshopdemo/issues"
+  },
+  "homepage": "https://github.com/sayedazharsabri/workshopdemo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
